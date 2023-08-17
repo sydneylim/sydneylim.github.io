@@ -1,14 +1,15 @@
-import { useState, useCallback, useEffect } from 'react';
+import React, { useState, useCallback, useEffect } from 'react';
 
+import Table from './Table';
 import initialData from '../../data/stats/site';
 
 const Stats = () => {
-  const [setResponseData] = useState(initialData);
+  const [data, setResponseData] = useState(initialData);
   // TODO think about persisting this somewhere
   const fetchData = useCallback(async () => {
     // request must be authenticated if private
     const res = await fetch(
-      'https://api.github.com/repos/mldangelo/personal-site',
+      'https://api.github.com/repos/sydneylim/sydneylim.github.io',
     );
     const resData = await res.json();
     setResponseData(
@@ -25,6 +26,13 @@ const Stats = () => {
   useEffect(() => {
     fetchData();
   }, [fetchData]);
+
+  return (
+    <div>
+      <h3>Some stats about this site</h3>
+      <Table data={data} />
+    </div>
+  );
 };
 
 export default Stats;
