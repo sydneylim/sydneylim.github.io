@@ -1,10 +1,9 @@
-import React, { useState, useCallback, useEffect } from 'react';
+import { useState, useCallback, useEffect } from 'react';
 
-import Table from './Table';
 import initialData from '../../data/stats/site';
 
 const Stats = () => {
-  const [data, setResponseData] = useState(initialData);
+  const [setResponseData] = useState(initialData);
   // TODO think about persisting this somewhere
   const fetchData = useCallback(async () => {
     // request must be authenticated if private
@@ -26,13 +25,6 @@ const Stats = () => {
   useEffect(() => {
     fetchData();
   }, [fetchData]);
-
-  return (
-    <div>
-      <h3>Some stats about this site</h3>
-      <Table data={data} />
-    </div>
-  );
 };
 
 export default Stats;
