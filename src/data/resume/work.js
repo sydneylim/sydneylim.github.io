@@ -33,7 +33,7 @@ const work = [
     summary: '',
     highlights: [
       'Worked on a data loss prevention project to pinpoint sources of and minimize internal threats.',
-      'Implemented robotic process automation (RPA) script to automate data extraction in Python.',
+      'Implemented a robotic process automation (RPA) script to automate data extraction in Python.',
       'Utilized Microsoft Power BI, Tableau, and SQL to compile, cleanse, analyze, and present the data.',
     ],
   },
