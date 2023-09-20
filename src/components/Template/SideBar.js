@@ -19,8 +19,8 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Sydney. I am pursuing my <a href="https://www.cs.ucsb.edu/">MSCS @ UCSB</a>, and
-        graduated with a <a href="https://www.ce.ucsb.edu/">BSCE @ UCSB.</a>{' '}
+      <p>Hi, I&apos;m Sydney. I recently obtained my <a href="https://www.cs.ucsb.edu/">MSCS @ UCSB</a>, and
+        hold a <a href="https://www.ce.ucsb.edu/">BSCE @ UCSB.</a>{' '}
         I&apos;m currently doing research in <a href="https://github.com/sydneylim/QuestPro_EyeTracking">eye tracking in AR/VR</a> in the <a href="https://ilab.cs.ucsb.edu/">Four Eyes Lab</a>.
       </p>
       <ul className="actions">

@@ -1,6 +1,17 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Meta Quest Pro Eye Tracking Test Suite',
+    subtitle: 'Master of Science Research Project',
+    link: 'https://github.com/sydneylim/QuestPro_EyeTracking',
+    image: '/images/projects/eyetts.jpg',
+    date: '2023-9',
+    desc:
+      'Furthered research with a goal of creating a standardized test suite for the eye tracking technology in various mixed reality headsets, specifically for scenarios with varying degrees of movement. '
+      + 'Designed and executed an evaluation and calibration method for the Meta Quest Pro. '
+      + 'Analyzed the effects of movement, as well as a virtual reality versus an augmented reality environment, on visual perception. ',
+  },
+  {
     title: 'OffTheRails Online Store',
     subtitle: 'Project for CMPSC 291A: Scalable Internet Services',
     link: 'https://github.com/scalableinternetservices/OffTheRails',
