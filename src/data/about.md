@@ -1,7 +1,7 @@
 
 # Intro
 
-I recently graduated from UC Santa Barbara with an MS in Computer Science. Last year, I graduated from the same university with a B.S. in Computer Engineering. In my spare time, I play badminton with friends, explore new boba shops, and go on sunset walks along the many beaches around our campus.
+I recently graduated from UC Santa Barbara with an MS in Computer Science. Last year, I graduated from the same university with a B.S. in Computer Engineering. In my spare time, I play badminton with friends and explore new boba shops!
 
 # Fun facts
 
