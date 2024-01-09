@@ -37,7 +37,7 @@ const data = [
     title: 'T.A.L.K.',
     subtitle: 'Senior CS Capstone Project, sponsored by Invoca',
     link: 'https://github.com/cs189-invoca-capstone/cs189_invoca',
-    image: '/images/projects/talk.png',
+    image: '/images/projects/talkcapstone.png',
     date: '2022-03',
     desc:
       'Worked in a team of six to develop an Express web application deployed on Heroku to be used by salespeople. '
@@ -51,7 +51,7 @@ const data = [
     title: 'UCSB Courses Search',
     subtitle: 'Project for CMPSC 156: Advanced Applications Programming',
     link: 'https://github.com/ucsb-cs156-s21/proj-ucsb-courses-search',
-    image: '/images/projects/ucsbcoursessearch.png',
+    image: '/images/projects/ucsbcoursessearch156.png',
     date: '2021-06',
     desc:
       'Worked with a team of ~20 people on this legacy project, a web application used to search for classes based on input criteria. '
