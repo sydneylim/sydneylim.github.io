@@ -1,7 +1,7 @@
 
 # Intro
 
-I'm a Cloud Developer I at Hewlett Packard Enterprise working on Morpheus, an automation platform that powers HPE GreenLake hybrid cloud services. Previously, I graduated from UC Santa Barbara with an M.S. in Computer Science and a B.S. in Computer Engineering. In my spare time, I play badminton with friends and explore new boba shops!
+I am a Cloud Developer I at Hewlett Packard Enterprise working on Morpheus, an automation platform that powers HPE GreenLake hybrid cloud services. Previously, I graduated from UC Santa Barbara with an M.S. in Computer Science and a B.S. in Computer Engineering. In my spare time, I play badminton with friends and explore new boba shops!
 
 # Fun facts
 
