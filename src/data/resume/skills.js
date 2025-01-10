@@ -100,6 +100,11 @@ const skills = [
     category: ['Web Development', 'Languages'],
   },
   {
+    title: 'Groovy on Grails',
+    competency: 5,
+    category: ['Web Development', 'Languages'],
+  },
+  {
     title: 'MATLAB',
     competency: 4,
     category: ['Languages'],

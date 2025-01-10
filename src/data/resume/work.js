@@ -13,6 +13,29 @@
  */
 const work = [
   {
+    name: 'Hewlett Packard Enterprise',
+    position: 'Cloud Developer I',
+    url: 'https://www.hpe.com/us/en/greenlake.html',
+    startDate: '2024-11',
+    summary: '',
+    highlights: [
+      'Working in the core development team of Morpheus, a hybrid-cloud management platform.',
+      'Practicing full-stack software development, primarily using Groovy on Grails.',
+    ],
+  },
+  {
+    name: 'Morpheus Data',
+    position: 'Software Engineer',
+    url: 'https://www.morpheusdata.com/',
+    startDate: '2024-02',
+    endDate: '2024-10',
+    summary: 'Acquired by HPE in November 2024.',
+    highlights: [
+      'Worked in the core development team to develop Morpheus, a hybrid-cloud management platform.',
+      'Practiced full-stack software development, primarily using Groovy on Grails.',
+    ],
+  },
+  {
     name: 'Invoca',
     position: 'Software Engineering Intern',
     url: 'https://www.invoca.com/',

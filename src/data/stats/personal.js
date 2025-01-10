@@ -20,14 +20,9 @@ const Age = () => {
 
 const data = [
   {
-    key: 'age',
-    label: 'Current age',
-    value: <Age />,
-  },
-  {
     key: 'location',
     label: 'Current city',
-    value: 'Fremont, CA',
+    value: 'San Francisco Bay Area, CA',
   },
   {
     key: 'sport',

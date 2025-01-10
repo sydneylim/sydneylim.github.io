@@ -15,11 +15,6 @@ const data = [
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
-  {
-    link: 'mailto:scqlim@gmail.com',
-    label: 'Email',
-    icon: faEnvelope,
-  },
 ];
 
 export default data;
